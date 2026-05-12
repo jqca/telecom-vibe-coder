@@ -49,8 +49,6 @@ function App() {
     <div className="top-bar">
       <a
         href="https://company-dashboard.up.railway.app/expo"
-        target="_blank"
-        rel="noopener noreferrer"
         className="portal-btn"
       >
         <LayoutDashboard size={14} />
